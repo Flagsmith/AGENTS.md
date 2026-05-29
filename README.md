@@ -1,4 +1,4 @@
-Artifacts for agents used in Flagsmith.
+Artefacts for LLM agents used in Flagsmith.
 
 Refer to each topic as referenced:
 
