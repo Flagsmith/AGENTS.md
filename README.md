@@ -1,4 +1,4 @@
-Collection of instructions to help streamline ours — and agentic — work.
+Artifacts for agents used in Flagsmith.
 
 Refer to each topic as referenced:
 
