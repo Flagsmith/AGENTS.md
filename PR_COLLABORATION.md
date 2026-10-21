@@ -53,15 +53,7 @@ Key points:
 
 Before opening a PR, check for a `CONTRIBUTING.md` (or similar) in the repository root. It may specify test requirements and other expectations. Following these upfront avoids unnecessary review round-trips.
 
-### PR005: Open the PR as Draft early, and use it to self-review
-
-Push the branch and open a Draft PR as soon as there is a working direction — even before the code is complete. The Draft PR is a self-review tool: use the GitHub diff view to catch leftover debug code, missing tests, unclear naming, and incomplete descriptions. CI also runs on drafts, so failures surface early.
-
 ## Requesting Review
-
-### PR006: Mark Ready for Review
-
-When self-review is done and CI is green, move the PR out of Draft. We have automation in GitHub to select reviewers on a rotating basis.
 
 ### PR007: CI must be green before requesting review
 
